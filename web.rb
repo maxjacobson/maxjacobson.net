@@ -1,6 +1,8 @@
 require 'sinatra'
-require 'haml'
-require 'kramdown'
+
 get '/' do
-  "hey"
+  redirect "http://maxjacobson.github.io"
+end
+get '/:anything' do
+  redirect "http://maxjacobson.github.io"
 end
