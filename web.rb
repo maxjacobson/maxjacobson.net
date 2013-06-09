@@ -12,7 +12,7 @@ get '/~about' do
   redirect "http://maxjacobson.github.io/blog/about"
 end
 
-get '/~project' do
+get '/~projects' do
   redirect "http://maxjacobson.github.io/blog/about"
 end
 
