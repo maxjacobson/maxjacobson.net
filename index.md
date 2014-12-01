@@ -4,9 +4,6 @@ layout: default
 
 # Max Jacobson
 
-Theres nothing here right now, and what should there be?
-
-* [blog](http://hardscrabble.net)
-* [twitter](http://twitter.com/maxjacobson)
-* [github](http://github.com/maxjacobson)
-
+[<i class="fa fa-pencil"></i>](http://hardscrabble.net)
+[<i class="fa fa-twitter"></i>](http://twitter.com/maxjacobson)
+[<i class="fa fa-github"></i>](http://github.com/maxjacobson)

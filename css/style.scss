@@ -1,0 +1,31 @@
+---
+---
+
+$lovely: #FFE7B2;
+
+body {
+  background-color: #FF7F91;
+  color: $lovely;
+}
+
+.content {
+  text-align: center;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+.fa {
+  font-size: 200px;
+  display: block;
+}
+
+a {
+  color: $lovely;
+  text-decoration: none;
+  &:hover {
+    color: #87FF90;
+  }
+}
+
