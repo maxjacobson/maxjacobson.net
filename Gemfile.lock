@@ -2,7 +2,7 @@ GEM
   remote: http://rubygems.org/
   specs:
     daemons (1.1.9)
-    eventmachine (1.0.3)
+    eventmachine (1.2.5)
     haml (4.0.3)
       tilt
     kramdown (1.0.2)
@@ -30,3 +30,6 @@ DEPENDENCIES
   shotgun
   sinatra
   thin
+
+BUNDLED WITH
+   1.16.1
