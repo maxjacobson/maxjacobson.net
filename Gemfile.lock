@@ -6,7 +6,7 @@ GEM
     haml (4.0.3)
       tilt
     kramdown (1.0.2)
-    rack (1.6.9)
+    rack (1.6.11)
     rack-protection (1.5.5)
       rack
     shotgun (0.9)
@@ -32,4 +32,4 @@ DEPENDENCIES
   thin
 
 BUNDLED WITH
-   1.16.1
+   1.17.1
