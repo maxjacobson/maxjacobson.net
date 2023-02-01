@@ -16,12 +16,9 @@ h1 {
   font-size: 4em;
 }
 
-.fa {
+a {
   font-size: 200px;
   display: block;
-}
-
-a {
   color: $lovely;
   text-decoration: none;
   &:hover {
