@@ -1,8 +1,6 @@
 ---
 ---
 
-@use "sass:color";
-
 body {
   background-color: white;
   color: black;
@@ -22,13 +20,11 @@ h1 {
   font-size: 4em;
 }
 
-$links: #E0218A;
-
 a {
-  color: $links;
+  color: #E0218A;
   text-decoration: none;
   &:hover {
-    color: color.adjust($links, $lightness: 20%);
+    color: lighten(#E0218A, 20%);
   }
 }
 
