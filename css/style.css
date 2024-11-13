@@ -1,6 +1,3 @@
----
----
-
 body {
   background-color: white;
   color: black;
@@ -24,7 +21,7 @@ a {
   color: #E0218A;
   text-decoration: none;
   &:hover {
-    color: lighten(#E0218A, 20%);
+    color: rgb(236.4980237154, 122.5019762846, 185.1699604743);
   }
 }
 
