@@ -1,15 +1,19 @@
 ---
 ---
 
-$lovely: #FFE7B2;
-
 body {
-  background-color: #FF7F91;
-  color: $lovely;
+  background-color: white;
+  color: black;
 }
 
 .content {
-  text-align: center;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+ul {
+  list-style: square;
+  padding: 0;
 }
 
 h1 {
@@ -17,12 +21,10 @@ h1 {
 }
 
 a {
-  font-size: 200px;
-  display: block;
-  color: $lovely;
+  color: #E0218A;
   text-decoration: none;
   &:hover {
-    color: #87FF90;
+    color: lighten(#E0218A, 20%);
   }
 }
 
