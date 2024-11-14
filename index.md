@@ -6,7 +6,7 @@ layout: default
 
 Welcome to <a href="https://www.maxjacobson.net">maxjacobson.net</a>.
 
-I got this domain in 2011 and now I continue to renew it year after year like that one guy in Lost pushing the button every 108 minutes, just in case, even though I don't really use this website for anything at all.
+I got this domain in 2011 and now I continue to renew it year after year like that one guy in Lost pushing the button every 108 minutes, just in case.
 
 Elsewhere on the internet:
 
