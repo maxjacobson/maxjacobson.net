@@ -12,7 +12,6 @@ Elsewhere on the internet:
 
 - [<i class="fa-solid fa-house" title="My blog, hardscrabble.net"></i> My beautiful blog, hardscrabble.net](http://hardscrabble.net)
 - [<i class="fa-brands fa-mastodon" title="Mastodon"></i> Mastodon](https://mastodon.online/@maxjacobson)
-- [<i class="fa-brands fa-bluesky" title="Bluesky"></i> Bluesky](https://bsky.app/profile/hardscrabble.net)
 - [<i class="fa-brands fa-instagram" title="Instagram"></i> Instagram](https://www.instagram.com/maxjacobson/)
 - [<i class="fa-brands fa-github" title="GitHub"></i> GitHub](http://github.com/maxjacobson)
 - [<i class="fa-brands fa-square-letterboxd" title="Letterboxd"></i> Letterboxd](https://letterboxd.com/maxjacobson)
