@@ -16,4 +16,5 @@ Elsewhere on the internet:
 - [<i class="fa-brands fa-square-letterboxd" title="Letterboxd"></i> Letterboxd](https://letterboxd.com/maxjacobson)
 - [<i class="fa-brands fa-linkedin" title="LinkedIn"></i> LinkedIn](https://www.linkedin.com/in/maxjacobson1/)
 - [<i class="fa-solid fa-at" title="Email"></i> Email](mailto:max@hardscrabble.net)
+
 All right, now go outside.
