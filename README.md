@@ -5,5 +5,5 @@ Just a little homepage.
 ## Setup
 
 - Install ruby
-- `bin/serve`
+- `bin/dev`
 - visit <http://localhost:4000/>
