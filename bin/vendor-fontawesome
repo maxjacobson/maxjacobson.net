@@ -1,0 +1,9 @@
+#!/usr/bin/env sh
+
+npm clean-install
+
+mkdir -p css/fontawesome css/webfonts
+cp node_modules/@fortawesome/fontawesome-free/css/fontawesome.min.css css/fontawesome/
+cp node_modules/@fortawesome/fontawesome-free/css/solid.min.css css/fontawesome/
+cp node_modules/@fortawesome/fontawesome-free/css/brands.min.css css/fontawesome/
+cp node_modules/@fortawesome/fontawesome-free/webfonts/* css/webfonts/
