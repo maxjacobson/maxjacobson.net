@@ -10,7 +10,7 @@ I got this domain in 2011 and now I continue to renew it year after year like th
 
 Elsewhere on the internet:
 
-- [<i class="fa-solid fa-house" title="My blog, hardscrabble.net"></i> My beautiful blog, hardscrabble.net](https://hardscrabble.net)
+- [<i class="fa-solid fa-house" title="My blog, hardscrabble.net"></i> My beautiful blog, hardscrabble.net](https://www.hardscrabble.net)
 - [<i class="fa-brands fa-mastodon" title="Mastodon"></i> Mastodon](https://mastodon.online/@maxjacobson)
 - [<i class="fa-brands fa-github" title="GitHub"></i> GitHub](https://github.com/maxjacobson)
 - [<i class="fa-brands fa-codeberg" title="Codeberg"></i> Codeberg](https://codeberg.org/maxjacobson)
