@@ -10,9 +10,9 @@ I got this domain in 2011 and now I continue to renew it year after year like th
 
 Elsewhere on the internet:
 
-- [<i class="fa-solid fa-house" title="My blog, hardscrabble.net"></i> My beautiful blog, hardscrabble.net](http://hardscrabble.net)
+- [<i class="fa-solid fa-house" title="My blog, hardscrabble.net"></i> My beautiful blog, hardscrabble.net](https://hardscrabble.net)
 - [<i class="fa-brands fa-mastodon" title="Mastodon"></i> Mastodon](https://mastodon.online/@maxjacobson)
-- [<i class="fa-brands fa-github" title="GitHub"></i> GitHub](http://github.com/maxjacobson)
+- [<i class="fa-brands fa-github" title="GitHub"></i> GitHub](https://github.com/maxjacobson)
 - [<i class="fa-brands fa-codeberg" title="Codeberg"></i> Codeberg](https://codeberg.org/maxjacobson)
 - [<i class="fa-brands fa-square-letterboxd" title="Letterboxd"></i> Letterboxd](https://letterboxd.com/maxjacobson)
 - [<i class="fa-brands fa-linkedin" title="LinkedIn"></i> LinkedIn](https://www.linkedin.com/in/maxjacobson1/)
@@ -22,4 +22,4 @@ Go outside.
 
 <hr />
 
-[Source](http://github.com/maxjacobson/maxjacobson.net)
+[Source](https://github.com/maxjacobson/maxjacobson.net)
