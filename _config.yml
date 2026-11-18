@@ -2,3 +2,5 @@ exclude:
   - "CNAME"
   - "README.md"
   - "bin"
+  - "package.json"
+  - "package-lock.json"
